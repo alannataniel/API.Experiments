@@ -1,0 +1,32 @@
+{
+  "name": "api.experiments",
+  "version": "1.0.0",
+  "description": "Primeiros experimentos no desenvolvimento de APIs usando Node.js e MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alannataniel/API.Experiments.git"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "JASON",
+    "Node.js",
+    "MySQL",
+    "CRUD",
+    "API",
+    "HTTP"
+  ],
+  "author": "Alan Nataniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alannataniel/API.Experiments/issues"
+  },
+  "homepage": "https://github.com/alannataniel/API.Experiments#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
