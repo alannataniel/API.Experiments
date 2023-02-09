@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alan Nataniel",
+      "email": "alan@nataniel.com"
+    },
+    {
+      "id": "2",
+      "name": "Thiago Bomfim",
+      "email": "thiago@bomfim.com"
+    }
+  ]
+}
