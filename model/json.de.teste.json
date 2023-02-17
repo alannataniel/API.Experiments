@@ -1,0 +1,8 @@
+{
+    "user": "1",
+    "name": "Pastel de flango",
+    "photo": "https://picsum.photos/199",
+    "description": "Morbi nec tortor aliquet, feugiat neque eu, sagittis est. Sed volutpat tristique euismod. Duis et urna porta, varius dolor eget, dignissim ex.",
+    "location": "Geladeira",
+    "options": "{\"estado\": \"mofado\", \"cor\": \"azul esverdeado\", \"marca\": \"Chinesinho da esquina\"}"
+}
